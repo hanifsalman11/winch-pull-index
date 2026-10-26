@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "winch_name": "Warn VR EVO 10-S (10,000 lb Synthetic Rope Winch)",
+    "slug": "warn-vr-evo-10-s-10000-lb-synthetic-rope-winch-winch-pull-capacity-calculator",
+    "title": "Warn VR EVO 10-S (10,000 lb Synthetic Rope Winch) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,600 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 358A battery sizing for Warn VR EVO 10-S (10,000 lb Synthetic Rope Winch).",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 358,
+    "date": "2026-10-26"
+  },
+  {
+    "winch_name": "Warn VR EVO 12-S (12,000 lb Synthetic Rope Winch)",
+    "slug": "warn-vr-evo-12-s-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator",
+    "title": "Warn VR EVO 12-S (12,000 lb Synthetic Rope Winch) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 396A battery sizing for Warn VR EVO 12-S (12,000 lb Synthetic Rope Winch).",
+    "winch_lbs": 12000,
+    "layer4_lbs": 8000,
+    "amps": 396,
+    "date": "2026-10-26"
+  },
+  {
+    "winch_name": "Warn Zeon 10-S Platinum (10,000 lb Extreme Duty)",
+    "slug": "warn-zeon-10-s-platinum-10000-lb-extreme-duty-winch-pull-capacity-calculator",
+    "title": "Warn Zeon 10-S Platinum (10,000 lb Extreme Duty) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 409A battery sizing for Warn Zeon 10-S Platinum (10,000 lb Extreme Duty).",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 409,
+    "date": "2026-10-26"
+  }
+]
