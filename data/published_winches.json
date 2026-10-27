@@ -118,5 +118,35 @@
     "layer4_lbs": 9000,
     "amps": 435,
     "date": "2026-10-27"
+  },
+  {
+    "winch_name": "Jeep Wrangler JLU 4-Door Rubicon (6,100 lb GVWR)",
+    "slug": "jeep-wrangler-jlu-4-door-rubicon-6100-lb-gvwr-winch-pull-capacity-calculator",
+    "title": "Jeep Wrangler JLU 4-Door Rubicon (6,100 lb GVWR) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,200 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 365A battery sizing for Jeep Wrangler JLU 4-Door Rubicon (6,100 lb GVWR).",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 365,
+    "date": "2026-10-27"
+  },
+  {
+    "winch_name": "Jeep Wrangler 2-Door Willys / Sport (5,200 lb GVWR)",
+    "slug": "jeep-wrangler-2-door-willys-sport-5200-lb-gvwr-winch-pull-capacity-calculator",
+    "title": "Jeep Wrangler 2-Door Willys / Sport (5,200 lb GVWR) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (7,800 lbs), mud/slope bog resistance, outer drum layer pull (6,400 lbs), and 12V 350A battery sizing for Jeep Wrangler 2-Door Willys / Sport (5,200 lb GVWR).",
+    "winch_lbs": 9500,
+    "layer4_lbs": 6400,
+    "amps": 350,
+    "date": "2026-10-27"
+  },
+  {
+    "winch_name": "Jeep Gladiator Rubicon / Mojave (6,500 lb Overland)",
+    "slug": "jeep-gladiator-rubicon-mojave-6500-lb-overland-winch-pull-capacity-calculator",
+    "title": "Jeep Gladiator Rubicon / Mojave (6,500 lb Overland) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 396A battery sizing for Jeep Gladiator Rubicon / Mojave (6,500 lb Overland).",
+    "winch_lbs": 12000,
+    "layer4_lbs": 8000,
+    "amps": 396,
+    "date": "2026-10-27"
   }
 ]
