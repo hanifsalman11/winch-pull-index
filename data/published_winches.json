@@ -58,5 +58,35 @@
     "layer4_lbs": 6700,
     "amps": 380,
     "date": "2026-10-26"
+  },
+  {
+    "winch_name": "Smittybilt X2O GEN3 12,000 lb Synthetic Rope Winch",
+    "slug": "smittybilt-x2o-gen3-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator",
+    "title": "Smittybilt X2O GEN3 12,000 lb Synthetic Rope Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 415A battery sizing for Smittybilt X2O GEN3 12,000 lb Synthetic Rope Winch.",
+    "winch_lbs": 12000,
+    "layer4_lbs": 8000,
+    "amps": 415,
+    "date": "2026-10-27"
+  },
+  {
+    "winch_name": "Superwinch Tiger Shark 9500SR & 11500SR Winch",
+    "slug": "superwinch-tiger-shark-9500sr-11500sr-winch-winch-pull-capacity-calculator",
+    "title": "Superwinch Tiger Shark 9500SR & 11500SR Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (10,800 lbs), mud/slope bog resistance, outer drum layer pull (7,700 lbs), and 12V 390A battery sizing for Superwinch Tiger Shark 9500SR & 11500SR Winch.",
+    "winch_lbs": 11500,
+    "layer4_lbs": 7700,
+    "amps": 390,
+    "date": "2026-10-27"
+  },
+  {
+    "winch_name": "ComeUp Seal Gen2 9.5rs & 12.5rs Off-Road Winch",
+    "slug": "comeup-seal-gen2-95rs-125rs-off-road-winch-winch-pull-capacity-calculator",
+    "title": "ComeUp Seal Gen2 9.5rs & 12.5rs Off-Road Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (11,400 lbs), mud/slope bog resistance, outer drum layer pull (8,400 lbs), and 12V 410A battery sizing for ComeUp Seal Gen2 9.5rs & 12.5rs Off-Road Winch.",
+    "winch_lbs": 12500,
+    "layer4_lbs": 8400,
+    "amps": 410,
+    "date": "2026-10-27"
   }
 ]
