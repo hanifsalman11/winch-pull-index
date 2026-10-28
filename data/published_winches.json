@@ -178,5 +178,35 @@
     "layer4_lbs": 6700,
     "amps": 365,
     "date": "2026-10-28"
+  },
+  {
+    "winch_name": "Toyota Land Cruiser 250 / Lexus GX 550 Overtrail",
+    "slug": "toyota-land-cruiser-250-lexus-gx-550-overtrail-winch-pull-capacity-calculator",
+    "title": "Toyota Land Cruiser 250 / Lexus GX 550 Overtrail Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (10,400 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 396A battery sizing for Toyota Land Cruiser 250 / Lexus GX 550 Overtrail.",
+    "winch_lbs": 12000,
+    "layer4_lbs": 8000,
+    "amps": 396,
+    "date": "2026-10-28"
+  },
+  {
+    "winch_name": "Ford F-150 Tremor & Raptor Off-Road Truck",
+    "slug": "ford-f-150-tremor-raptor-off-road-truck-winch-pull-capacity-calculator",
+    "title": "Ford F-150 Tremor & Raptor Off-Road Truck Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (11,000 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 410A battery sizing for Ford F-150 Tremor & Raptor Off-Road Truck.",
+    "winch_lbs": 12000,
+    "layer4_lbs": 8000,
+    "amps": 410,
+    "date": "2026-10-28"
+  },
+  {
+    "winch_name": "Ford F-250 / F-350 Super Duty Tremor (10,000 lb GVWR)",
+    "slug": "ford-f-250-f-350-super-duty-tremor-10000-lb-gvwr-winch-pull-capacity-calculator",
+    "title": "Ford F-250 / F-350 Super Duty Tremor (10,000 lb GVWR) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (15,000 lbs), mud/slope bog resistance, outer drum layer pull (11,100 lbs), and 12V 465A battery sizing for Ford F-250 / F-350 Super Duty Tremor (10,000 lb GVWR).",
+    "winch_lbs": 16500,
+    "layer4_lbs": 11100,
+    "amps": 465,
+    "date": "2026-10-28"
   }
 ]
