@@ -148,5 +148,35 @@
     "layer4_lbs": 8000,
     "amps": 396,
     "date": "2026-10-27"
+  },
+  {
+    "winch_name": "Ford Bronco Badlands / Wildtrak Sasquatch 4-Door",
+    "slug": "ford-bronco-badlands-wildtrak-sasquatch-4-door-winch-pull-capacity-calculator",
+    "title": "Ford Bronco Badlands / Wildtrak Sasquatch 4-Door Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,400 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 365A battery sizing for Ford Bronco Badlands / Wildtrak Sasquatch 4-Door.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 365,
+    "date": "2026-10-28"
+  },
+  {
+    "winch_name": "Toyota Tacoma TRD Pro & Overland Rig (6,200 lb GVWR)",
+    "slug": "toyota-tacoma-trd-pro-overland-rig-6200-lb-gvwr-winch-pull-capacity-calculator",
+    "title": "Toyota Tacoma TRD Pro & Overland Rig (6,200 lb GVWR) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,300 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 365A battery sizing for Toyota Tacoma TRD Pro & Overland Rig (6,200 lb GVWR).",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 365,
+    "date": "2026-10-28"
+  },
+  {
+    "winch_name": "Toyota 4Runner TRD Off-Road & Overland Build",
+    "slug": "toyota-4runner-trd-off-road-overland-build-winch-pull-capacity-calculator",
+    "title": "Toyota 4Runner TRD Off-Road & Overland Build Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,400 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 365A battery sizing for Toyota 4Runner TRD Off-Road & Overland Build.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 365,
+    "date": "2026-10-28"
   }
 ]
