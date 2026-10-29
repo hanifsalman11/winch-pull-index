@@ -298,5 +298,35 @@
     "layer4_lbs": 3700,
     "amps": 235,
     "date": "2026-10-29"
+  },
+  {
+    "winch_name": "Car Trailer",
+    "slug": "car-trailer-winch-pull-capacity-calculator",
+    "title": "Car Trailer Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Car Trailer.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-29"
+  },
+  {
+    "winch_name": "A Jeep Wrangler",
+    "slug": "a-jeep-wrangler-winch-pull-capacity-calculator",
+    "title": "A Jeep Wrangler Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for A Jeep Wrangler.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-29"
+  },
+  {
+    "winch_name": "Tacoma",
+    "slug": "tacoma-winch-pull-capacity-calculator",
+    "title": "Tacoma Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Tacoma.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-29"
   }
 ]

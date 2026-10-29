@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/winch-pull-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Tacoma Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/tacoma-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/tacoma-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Tacoma.</description>
+    </item>
+    <item>
+      <title>A Jeep Wrangler Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/a-jeep-wrangler-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/a-jeep-wrangler-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for A Jeep Wrangler.</description>
+    </item>
+    <item>
+      <title>Car Trailer Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/car-trailer-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/car-trailer-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Car Trailer.</description>
+    </item>
+    <item>
       <title>Warn Axon 55-S & SuperATV Black Ops 6000 lb UTV Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/winch-pull-index/warn-axon-55-s-superatv-black-ops-6000-lb-utv-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/warn-axon-55-s-superatv-black-ops-6000-lb-utv-winch-pull-capacity-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/winch-pull-index/badland-apex-12000-lb-waterproof-synthetic-winch-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/badland-apex-12000-lb-waterproof-synthetic-winch-winch-pull-capacity-calculator.html</guid>
       <description>Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 420A battery sizing for Badland Apex 12,000 lb Waterproof Synthetic Winch.</description>
-    </item>
-    <item>
-      <title>Warn Zeon 10-S Platinum (10,000 lb Extreme Duty) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/warn-zeon-10-s-platinum-10000-lb-extreme-duty-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/warn-zeon-10-s-platinum-10000-lb-extreme-duty-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 409A battery sizing for Warn Zeon 10-S Platinum (10,000 lb Extreme Duty).</description>
-    </item>
-    <item>
-      <title>Warn VR EVO 12-S (12,000 lb Synthetic Rope Winch) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-12-s-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-12-s-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 396A battery sizing for Warn VR EVO 12-S (12,000 lb Synthetic Rope Winch).</description>
-    </item>
-    <item>
-      <title>Warn VR EVO 10-S (10,000 lb Synthetic Rope Winch) Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-10-s-10000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-10-s-10000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (9,600 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 358A battery sizing for Warn VR EVO 10-S (10,000 lb Synthetic Rope Winch).</description>
     </item>
   </channel>
 </rss>
