@@ -268,5 +268,35 @@
     "layer4_lbs": 4000,
     "amps": 250,
     "date": "2026-10-29"
+  },
+  {
+    "winch_name": "20-Foot Car Hauler Flatbed Trailer Winch Sizing",
+    "slug": "20-foot-car-hauler-flatbed-trailer-winch-sizing-winch-pull-capacity-calculator",
+    "title": "20-Foot Car Hauler Flatbed Trailer Winch Sizing Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,400 lbs), and 12V 355A battery sizing for 20-Foot Car Hauler Flatbed Trailer Winch Sizing.",
+    "winch_lbs": 9500,
+    "layer4_lbs": 6400,
+    "amps": 355,
+    "date": "2026-10-29"
+  },
+  {
+    "winch_name": "Enclosed Race Car & Dead-Vehicle Trailer Winch",
+    "slug": "enclosed-race-car-dead-vehicle-trailer-winch-winch-pull-capacity-calculator",
+    "title": "Enclosed Race Car & Dead-Vehicle Trailer Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (8,200 lbs), mud/slope bog resistance, outer drum layer pull (3,700 lbs), and 12V 240A battery sizing for Enclosed Race Car & Dead-Vehicle Trailer Winch.",
+    "winch_lbs": 5500,
+    "layer4_lbs": 3700,
+    "amps": 240,
+    "date": "2026-10-29"
+  },
+  {
+    "winch_name": "Warn Axon 55-S & SuperATV Black Ops 6000 lb UTV",
+    "slug": "warn-axon-55-s-superatv-black-ops-6000-lb-utv-winch-pull-capacity-calculator",
+    "title": "Warn Axon 55-S & SuperATV Black Ops 6000 lb UTV Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (4,500 lbs), mud/slope bog resistance, outer drum layer pull (3,700 lbs), and 12V 235A battery sizing for Warn Axon 55-S & SuperATV Black Ops 6000 lb UTV.",
+    "winch_lbs": 5500,
+    "layer4_lbs": 3700,
+    "amps": 235,
+    "date": "2026-10-29"
   }
 ]
