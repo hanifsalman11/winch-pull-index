@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/winch-pull-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Warn Vr Evo 12S Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-12s-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-12s-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Warn Vr Evo 12S.</description>
+    </item>
+    <item>
+      <title>Warn Vr Evo 10S Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-10s-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/warn-vr-evo-10s-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Warn Vr Evo 10S.</description>
+    </item>
+    <item>
+      <title>Polaris Ranger 1000 Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/polaris-ranger-1000-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/polaris-ranger-1000-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (3,900 lbs), mud/slope bog resistance, outer drum layer pull (3,000 lbs), and 12V 210A battery sizing for Polaris Ranger 1000.</description>
+    </item>
+    <item>
       <title>Boat Trailer Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/winch-pull-index/boat-trailer-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/boat-trailer-winch-pull-capacity-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/winch-pull-index/mile-marker-sec12-12000-lb-sealed-electric-winch-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/mile-marker-sec12-12000-lb-sealed-electric-winch-winch-pull-capacity-calculator.html</guid>
       <description>Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 405A battery sizing for Mile Marker SEC12 (12,000 lb) Sealed Electric Winch.</description>
-    </item>
-    <item>
-      <title>ComeUp Seal Gen2 9.5rs & 12.5rs Off-Road Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/comeup-seal-gen2-95rs-125rs-off-road-winch-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/comeup-seal-gen2-95rs-125rs-off-road-winch-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (11,400 lbs), mud/slope bog resistance, outer drum layer pull (8,400 lbs), and 12V 410A battery sizing for ComeUp Seal Gen2 9.5rs & 12.5rs Off-Road Winch.</description>
-    </item>
-    <item>
-      <title>Superwinch Tiger Shark 9500SR & 11500SR Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/superwinch-tiger-shark-9500sr-11500sr-winch-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/superwinch-tiger-shark-9500sr-11500sr-winch-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (10,800 lbs), mud/slope bog resistance, outer drum layer pull (7,700 lbs), and 12V 390A battery sizing for Superwinch Tiger Shark 9500SR & 11500SR Winch.</description>
-    </item>
-    <item>
-      <title>Smittybilt X2O GEN3 12,000 lb Synthetic Rope Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/smittybilt-x2o-gen3-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/smittybilt-x2o-gen3-12000-lb-synthetic-rope-winch-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (11,700 lbs), mud/slope bog resistance, outer drum layer pull (8,000 lbs), and 12V 415A battery sizing for Smittybilt X2O GEN3 12,000 lb Synthetic Rope Winch.</description>
     </item>
   </channel>
 </rss>
