@@ -328,5 +328,35 @@
     "layer4_lbs": 6700,
     "amps": 380,
     "date": "2026-10-29"
+  },
+  {
+    "winch_name": "Jeep Gladiator",
+    "slug": "jeep-gladiator-winch-pull-capacity-calculator",
+    "title": "Jeep Gladiator Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Jeep Gladiator.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-30"
+  },
+  {
+    "winch_name": "Jeep Tj",
+    "slug": "jeep-tj-winch-pull-capacity-calculator",
+    "title": "Jeep Tj Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Jeep Tj.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-30"
+  },
+  {
+    "winch_name": "Boat Trailer",
+    "slug": "boat-trailer-winch-pull-capacity-calculator",
+    "title": "Boat Trailer Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Boat Trailer.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-10-30"
   }
 ]
