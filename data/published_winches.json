@@ -508,5 +508,35 @@
     "layer4_lbs": 6700,
     "amps": 380,
     "date": "2026-10-31"
+  },
+  {
+    "winch_name": "Badland Apex 12000 Lb Winch",
+    "slug": "badland-apex-12000-lb-winch-winch-pull-capacity-calculator",
+    "title": "Badland Apex 12000 Lb Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Badland Apex 12000 Lb Winch.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-11-01"
+  },
+  {
+    "winch_name": "Badland Apex 12000 Vs Zxr 12000",
+    "slug": "badland-apex-12000-vs-zxr-12000-winch-pull-capacity-calculator",
+    "title": "Badland Apex 12000 Vs Zxr 12000 Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Badland Apex 12000 Vs Zxr 12000.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-11-01"
+  },
+  {
+    "winch_name": "Badland Apex 12000",
+    "slug": "badland-apex-12000-winch-pull-capacity-calculator",
+    "title": "Badland Apex 12000 Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Badland Apex 12000.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-11-01"
   }
 ]
