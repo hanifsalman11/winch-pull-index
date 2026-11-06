@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/winch-pull-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Jeep Xj Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/winch-pull-index/jeep-xj-winch-pull-capacity-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/winch-pull-index/jeep-xj-winch-pull-capacity-calculator.html</guid>
+      <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Jeep Xj.</description>
+    </item>
+    <item>
       <title>Jeep Wrangler Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/winch-pull-index/jeep-wrangler-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/jeep-wrangler-winch-pull-capacity-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/winch-pull-index/20-foot-car-hauler-flatbed-trailer-winch-sizing-winch-pull-capacity-calculator.html</link>
       <guid>https://hanifsalman11.github.io/winch-pull-index/20-foot-car-hauler-flatbed-trailer-winch-sizing-winch-pull-capacity-calculator.html</guid>
       <description>Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,400 lbs), and 12V 355A battery sizing for 20-Foot Car Hauler Flatbed Trailer Winch Sizing.</description>
-    </item>
-    <item>
-      <title>Polaris Ranger XP 1000 NorthStar Crew Hunting UTV Winch Pull Capacity, Drum Layer & Amp Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/winch-pull-index/polaris-ranger-xp-1000-northstar-crew-hunting-utv-winch-pull-capacity-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/winch-pull-index/polaris-ranger-xp-1000-northstar-crew-hunting-utv-winch-pull-capacity-calculator.html</guid>
-      <description>Calculate exact 1.5x GVWR winch capacity (4,600 lbs), mud/slope bog resistance, outer drum layer pull (4,000 lbs), and 12V 250A battery sizing for Polaris Ranger XP 1000 NorthStar Crew Hunting UTV.</description>
     </item>
   </channel>
 </rss>
