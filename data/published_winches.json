@@ -598,5 +598,15 @@
     "layer4_lbs": 6700,
     "amps": 380,
     "date": "2026-11-25"
+  },
+  {
+    "winch_name": "Warn Vr Evo 8 Winch",
+    "slug": "warn-vr-evo-8-winch-winch-pull-capacity-calculator",
+    "title": "Warn Vr Evo 8 Winch Winch Pull Capacity, Drum Layer & Amp Calculator (2026)",
+    "description": "Calculate exact 1.5x GVWR winch capacity (9,800 lbs), mud/slope bog resistance, outer drum layer pull (6,700 lbs), and 12V 380A battery sizing for Warn Vr Evo 8 Winch.",
+    "winch_lbs": 10000,
+    "layer4_lbs": 6700,
+    "amps": 380,
+    "date": "2026-11-26"
   }
 ]
